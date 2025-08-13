@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "types.h": "c",
+        "compare": "c",
+        "cstdint": "c",
+        "format": "c",
+        "stdio.h": "c"
+    }
+}
